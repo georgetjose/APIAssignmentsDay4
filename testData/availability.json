@@ -1,0 +1,17 @@
+{
+  "stay": {
+    "checkIn": "2020-08-20",
+    "checkOut": "2020-08-21"
+  },
+  "occupancies": [
+    {
+      "rooms": 1,
+      "adults": 2,
+      "children": 0
+    }
+  ],
+  "destination": {
+        "code": "BCN"
+    }
+}
+	

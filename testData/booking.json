@@ -1,0 +1,15 @@
+{
+  "holder": {
+    "name": "James",
+    "surname": "Bond"
+  },
+  "rooms": [
+    {
+      "rateKey": "ratekey"
+   	}
+  ],
+  "clientReference": "IntegrationAgency",
+  "remark": "This is a test Booking done from Rest Assured",
+  "tolerance": 2
+}
+	
